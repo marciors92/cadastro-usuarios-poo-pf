@@ -1,4 +1,3 @@
-// utils.js
 export const limparNaoNumericos = (texto) => texto.replace(/\D/g, '');
 
 export const buscarEnderecoPorCep = async (cep) => {

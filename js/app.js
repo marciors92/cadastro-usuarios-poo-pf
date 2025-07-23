@@ -1,4 +1,3 @@
-// app.js
 import { Usuario, Armazenamento } from './classes.js';
 import { limparNaoNumericos, buscarEnderecoPorCep, limparCampos, preencherCampos } from './utils.js';
 
